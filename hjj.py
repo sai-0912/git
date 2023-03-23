@@ -2,4 +2,3 @@
 
 print('night')
 
-print ('joker')
