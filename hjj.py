@@ -2,3 +2,4 @@
 
 print('night')
 
+print('a')
